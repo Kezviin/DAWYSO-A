@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+    padding-left: 20px;
+    text-decoration: none;
+}
+#lista button {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+body{
+    background-color: aqua;
+}
+#Tarea {
+    background-color: green;
+    color: white;
+}
+#lista button {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-size-adjust: 5px;
+}
+#contador {
+    background-color: wheat;
+    margin-right: 700px;
+}
